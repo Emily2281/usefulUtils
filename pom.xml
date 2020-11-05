@@ -19,7 +19,7 @@
     <properties>
         <fastjson.version>1.2.47</fastjson.version>
         <commons-lang3.version>3.7</commons-lang3.version>
-        <commons-beanutils.version>1.9.3</commons-beanutils.version>
+        <commons-beanutils.version>1.9.4</commons-beanutils.version>
     </properties>
 
     <!-- 定义本项目的依赖关系 -->
