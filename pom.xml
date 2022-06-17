@@ -17,7 +17,7 @@
 
     <!-- 为pom定义一些常量，在pom中的其它地方可以直接引用 使用方式 如下 ：${fastjson.version} -->
     <properties>
-        <fastjson.version>1.2.47</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <commons-lang3.version>3.7</commons-lang3.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
     </properties>
